@@ -1,0 +1,75 @@
+/* .body {
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+} */
+
+/* .banner {
+width: 731px;
+height: 113px;
+} */
+
+.google-gorseli {
+    width: 500 px;
+    
+
+}
+
+.bg-gri {
+    background-color: rgb(231, 231, 231);
+    width: 90%;
+    margin: auto
+}
+
+.arama-yeri {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.arama-alani {
+    width: 517px;
+    height: 21px;
+}
+.left-bar {
+    background-color: #7EE5DA;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    /* padding: 2px; */
+    margin: 2px;
+    width: 33% ;
+    height: 100px;
+    text-align: center;
+    
+}
+.center-bar {
+    background-color: #70CCC2;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    /* padding: 2px; */
+    margin: 2px;
+    width: 21%;
+    height: 100px;
+
+
+} 
+.right-bar {
+    background-color: #62B3AA;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    float:left;
+    margin: 2px;
+    width: 45.44% ;
+    height: 100px;
+}
+.footer { 
+    width: 90%;
+    margin: auto;
+}
+
+.Cpr { 
+    font-size: 20px;
+    width: 90%;
+}
+
+
